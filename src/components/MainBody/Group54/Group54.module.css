@@ -1,0 +1,57 @@
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 360px;
+  top: 78px;
+  width: 833.5px;
+  height: 48px;
+  align-items: flex-start;
+}
+.frame3 {
+  position: absolute;
+  left: 1.3797%;
+  right: 66.3467%;
+  top: 25%;
+  bottom: 25%;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+}
+.searchByKargaSkeletonGold {
+  color: #757575;
+  font-size: 16px;
+  font-family: Jost, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector12 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 1.0417%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.vector13 {
+  position: absolute;
+  left: 42.6158%;
+  right: 53.6293%;
+  top: 83.3333%;
+  bottom: 0;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}

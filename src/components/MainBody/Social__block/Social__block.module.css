@@ -1,0 +1,35 @@
+.root {
+  position: absolute;
+  left: 73px;
+  top: 478px;
+  width: 78px;
+  height: 88px;
+  align-items: flex-start;
+}
+.social {
+  color: #757575b2;
+  font-size: 14px;
+  font-family: Mrs. Monster, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 56.4103%;
+  top: 0;
+  bottom: 82.9545%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.social__link {
+  position: absolute;
+  left: 16px;
+  top: 25px;
+  width: 62px;
+  height: 63px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

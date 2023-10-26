@@ -1,0 +1,104 @@
+.root {
+  position: absolute;
+  left: 68px;
+  top: 233px;
+  width: 103px;
+  height: 123px;
+  align-items: flex-start;
+}
+.mAIN {
+  color: #757575b2;
+  font-size: 14px;
+  font-family: Mrs. Monster, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 70.8738%;
+  top: 0;
+  bottom: 87.8049%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.friends {
+  color: #fff;
+  font-size: 14px;
+  font-family: Mrs. Monster, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.3398%;
+  right: 6.7961%;
+  top: 82.1138%;
+  bottom: 5.6911%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 20.3883%;
+  right: 53.3316%;
+  top: 80.4878%;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.bestiary {
+  color: #fff;
+  font-size: 14px;
+  font-family: Mrs. Monster, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.3981%;
+  right: 0;
+  top: 25.2033%;
+  bottom: 62.6016%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.group84 {
+  position: absolute;
+  left: 24px;
+  top: 27px;
+  width: 21.1143px;
+  height: 24px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.skills {
+  color: #fff;
+  font-size: 14px;
+  font-family: Mrs. Monster, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.3398%;
+  right: 16.5049%;
+  top: 54.4715%;
+  bottom: 33.3333%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.group {
+  position: absolute;
+  left: 25px;
+  top: 86px;
+  width: 20.0963px;
+  height: 24px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
